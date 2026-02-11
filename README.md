@@ -1,4 +1,4 @@
-# meow-piano　／　 bird-piano
+# meow-piano/bird-piano
 個人が開発したアプリのプライバシーポリシーとお問合せ先を公開するためのページです。
 
 ## Contact
